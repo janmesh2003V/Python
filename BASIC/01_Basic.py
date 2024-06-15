@@ -116,23 +116,3 @@ m = int ( input ("Enter Value ") )
 # while --     To create a while loop
 # with  --     Used to simplify exception handling
 # yield --     To return a list of values from a generator
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
