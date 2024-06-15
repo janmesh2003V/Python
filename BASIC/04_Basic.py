@@ -23,39 +23,3 @@ print ( c )
 k = 22
 l = str (k)
 print ( type ( l ) )       # Yeh "string" mai Covert ho hya 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
