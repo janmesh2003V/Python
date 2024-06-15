@@ -13,7 +13,7 @@ price = 220.12
 # print (name)
 # print ("Age is :",Age)
 
-Age2 = Age  # Age ke value Age2 mai Dal de isliye Age ki bhi value 23 ho gyi 
+Age2 = Age  # Age ke value Age2 mai Dal di isliye Age ki bhi value 23 ho gyi 
 
 # print (Age2)
 
