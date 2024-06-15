@@ -47,16 +47,3 @@ print ( S10.replace ("a", "i") ) # Yeh "replace ( old, new )" yeh Function "old"
                                  # O/p => "i im jinmesh thikur" Esa Output Ayega "a" ko "i" se replace kar diya 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
