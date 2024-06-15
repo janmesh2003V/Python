@@ -39,7 +39,7 @@ num3 = num1 + num2
 # print (num3)      # Dono mai Same o/p Ayega 
 
 # 2Ayu = "sum"
-# print(2Ayu)  # yeh Run nahi hoga or Error dega kyuki Variable ke Age 2 laga hua hai mtlb variable ke Age number nhiu lagta hai 
+# print(2Ayu)  # yeh Run nahi hoga or Error dega kyuki Variable ke Age 2 laga hua hai mtlb variable ke Age number nhi lagta hai 
 
 
 #------------------------------------------------------------------------------#
