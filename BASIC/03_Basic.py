@@ -4,7 +4,7 @@
 
 # print ("My Name is", name, "And I am", Age, "year old ")
 
-##------------------------ Simple Interset Progra --------------------##
+##------------------------ Simple Interset Program --------------------##
 
 
 Principal = int ( input ( "Enter principal : ") )
