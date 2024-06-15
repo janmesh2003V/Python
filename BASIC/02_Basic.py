@@ -48,6 +48,3 @@ print ( A2 % B2 ) ## Iska bhi +ve Output
 A3 = 5
 B3 = -2
 print ( A3 % B3 ) ## Iska O/p = -1, -ve Value mai Ayega " kyuki Denominator -ve Hai "
-
-
-
