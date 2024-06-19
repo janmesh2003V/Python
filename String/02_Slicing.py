@@ -13,4 +13,11 @@ print ( St2 [-3 : -1 ] )           # O/p => PL Ayega kyuki yeh Pichhe se Value k
 print ( St2 [-len(St2) : -1] )     # o/P => APPL
 
 print ( St2 [-3 : ] )              # O/P => PLE
-print ( St2 [ : -2])               # O/p => APP "-2" ka mtlb hi yeh hai ki last ki 2 Charater ko chod kar 
+print ( St2 [ : -2])               # O/p => APP -2 ka mtlb hi yeh hai ki last ki 2 Charater ko chod kar 
+
+
+
+
+
+
+
