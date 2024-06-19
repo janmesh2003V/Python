@@ -21,19 +21,3 @@ print ( marks [ 1 : ] )     # is same as marks[ 1 : len(marks) ] And,
 
 print ( marks [-3 : -1] )   # o/p => [33, 95] same, Ending idx is not included
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
