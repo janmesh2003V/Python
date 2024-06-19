@@ -23,6 +23,7 @@ for i in range (len(S8)):
     if ( S8[i] == " " ):
         continue
     C+=1
+    
 # print( C )
 # print ("iss O/p mai Space bhi include hai tho, \nwo bhi cout hui hai ", len(S8) )
 # print ( "\nOr yeh Space Hai Baki ki" ,len (S8) - C )
@@ -86,6 +87,8 @@ print ( S14. count ("i") )           # Yeh Functuion Work ki bh count bata deta 
 #-------------------------------------------------------------------------------#
 #--------------------------------- Practice ------------------------------------#
 
+
 S15 = str ( input ( "Enter Your name :\n" ) )
 
 print ( "your Name length is :" , len (S15) )
+
