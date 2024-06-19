@@ -79,5 +79,3 @@ list9 = [2, 1, 3, 6, 5, 7, 8,]
 
 list9.pop( 4 )                  # removes element at idx
 print ( list9 )                 # O/p => [2, 1, 3, 6, 7, 8]
-
-
