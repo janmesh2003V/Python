@@ -3,11 +3,11 @@
 
 games = []
 
-# games.append ( str ( input ("Enter frist Game  :" ) ) )
-# games.append ( str ( input ("Enter Second Game :" ) ) )
-# games.append ( str ( input ("Enter Third Game  :" ) ) )
+games.append ( str ( input ("Enter frist Game  :" ) ) )
+games.append ( str ( input ("Enter Second Game :" ) ) )
+games.append ( str ( input ("Enter Third Game  :" ) ) )
 
-# print ( games )
+print ( games )
 
 
 #-------------------------------------------------------------------------------------#
@@ -29,10 +29,3 @@ if ( copied_list1 == list1 ):
 else: 
 
     print ("List is not a palindrome")
-
-
-
-
-
-
-
