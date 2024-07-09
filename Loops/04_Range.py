@@ -1,93 +1,94 @@
 
-# #-----------------------------------------# range() #-----------------------------------------------#
+#-----------------------------------------# range() #-----------------------------------------------#
 
 
-# # Range functions returns a sequence of numbers, starting from 0 by default, and increments by
-# # 1 (by default), and stops before a specified number.
+## Range functions returns a sequence of numbers, starting from 0 by default, and increments by
+## 1 (by default), and stops before a specified number.
 
-# # range( start?, stop, step?) ## Where, ? Show that it is optional
-
-
-# # for i in range ( 5 ):             # first way to print, using "range" function
-# #     print ( i )
+range( start?, stop, step?) ## Where, ? Show that it is optional
 
 
-# # for i2 in range ( 3, 9 ):         # Second Way to print, using "range" function  
-# #     print ( i2 )
-
-# # for i3 in range ( 3, 10 , 3 ):    # third and best way to print, using "range" function
-# #     print ( i3 )
+for i in range ( 5 ):             # first way to print, using "range" function
+    print ( i )
 
 
-# #---------------------------------------------------------------------------------------------------#
-# ## print Odd number 1 to 20 using " range " 
+for i2 in range ( 3, 9 ):         # Second Way to print, using "range" function  
+    print ( i2 )
 
 
-# # range( start?, stop, step? )
-# for i4 in range ( 1, 20, 2 ):
-#     print ( i4 )
+for i3 in range ( 3, 10 , 3 ):    # third and best way to print, using "range" function
+    print ( i3 )
 
 
-# #---------------------------------------------------------------------------------------------------#
-# ## print Even number 1 to 20 using " range " function
+#---------------------------------------------------------------------------------------------------#
+## print Odd number 1 to 20 using " range " 
 
 
-# # range( start?, stop, step? )
-# for i5 in range (2, 21, 2 ):
-#     print ( i5 )
+# range( start?, stop, step? )
+for i4 in range ( 1, 20, 2 ):
+    print ( i4 )
 
 
-# #---------------------------------------------------------------------------------------------------#
-# ## practice 
+#---------------------------------------------------------------------------------------------------#
+## print Even number 1 to 20 using " range " function
 
 
-# for i6 in range ( 1000, 200, -1 ):
-#     print ( i6 )
+# range( start?, stop, step? )
+for i5 in range (2, 21, 2 ):
+    print ( i5 )
 
 
-# #---------------------------------------------------------------------------------------------------#
-# ## Print the multiplication table of a number n.
+#---------------------------------------------------------------------------------------------------#
+## practice 
 
 
-# a = int ( input ("Enter number for table : ") )
-# c = 1
-# for i7 in range ( a, a*11, a ):
-
-#     print ( a, " * ", c, " = ", i7 )
-
-#     c += 1
+for i6 in range ( 1000, 200, -1 ):
+    print ( i6 )
 
 
-# # O/p => 👇
-# # Enter number for table : 5
-# # 5  *  1  =  5
-# # 5  *  2  =  10
-# # 5  *  3  =  15
-# # 5  *  4  =  20
-# # 5  *  5  =  25
-# # 5  *  6  =  30
-# # 5  *  7  =  35
-# # 5  *  8  =  40
-# # 5  *  9  =  45
-# # 5  *  10  =  50
+#---------------------------------------------------------------------------------------------------#
+## Print the multiplication table of a number n.
 
 
-# #---------------------------------------------------------------------------------------------------#
-# # WAP to find the sum of first n numbers. (using while)
+a = int ( input ("Enter number for table : ") )
+c = 1
+for i7 in range ( a, a*11, a ):
+
+    print ( a, " * ", c, " = ", i7 )
+
+    c += 1
 
 
-# a1 = int ( input ("Enter number : ") )
+# O/p => 👇
+# Enter number for table : 5
+# 5  *  1  =  5
+# 5  *  2  =  10
+# 5  *  3  =  15
+# 5  *  4  =  20
+# 5  *  5  =  25
+# 5  *  6  =  30
+# 5  *  7  =  35
+# 5  *  8  =  40
+# 5  *  9  =  45
+# 5  *  10  =  50
 
-# i8 = 0
-# sum = 0
-# while ( i8 <= a1 ):
-#     sum += i8
-#     i8 += 1
 
-# print ( a1, "number tak ka sum : ", sum  )
+#---------------------------------------------------------------------------------------------------#
+# WAP to find the sum of first n numbers. (using while)
 
 
-#----------------------------------------------------------------------------------------------------#
+a1 = int ( input ("Enter number : ") )
+
+i8 = 0
+sum = 0
+while ( i8 <= a1 ):
+    sum += i8
+    i8 += 1
+
+print ( a1, "number tak ka sum : ", sum  )
+
+
+#---------------------------------------------------------------------------------------------------#
 # WAP to find the factorial of first n numbers. (using for)
 
 
@@ -100,4 +101,3 @@ for i9 in range (1, a3+1, 1):
     fact *= i9
 
 print ( a3, "ka factorial : ", fact )
-
