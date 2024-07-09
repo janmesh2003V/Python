@@ -64,3 +64,4 @@ print ( student )                       # O/p => {'name': 'rahul kumar', 'subjec
 
 print ( student [ "subjects" ] )        # O/p => {'phy': 97, 'chem': 98, 'math': 95}
 
+print ( student [ "subjects" ] [ "math" ] )    # O/p => 95
