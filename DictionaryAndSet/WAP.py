@@ -26,7 +26,7 @@ Dict1 = {
 
 Set1 = { "python", "java", "C++", "Python", "javaScript", "java", "Python", "java", "C++", "C" }
 
-# print ( len ( Set1 ), "classrooms are needed by all students" )
+print ( len ( Set1 ), "classrooms are needed by all students" )
 
 
 #---------------------------------------------------------------------------------------------------#
@@ -47,6 +47,3 @@ dict1.update ( {"English" : name2} )
 dict1.update ( {"Maths" : name3} )
 
 print ( dict1 )
-
-
-
