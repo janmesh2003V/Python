@@ -16,7 +16,7 @@ def Reverse ( a ):
 
 # print ( n )
 
-a = str ( input ("\nEnter any word for revrse : ") )
+a = str ( input ("\nEnter any word for revrese : ") )
 
 print ( "\nthis is reverse of string :",Reverse(a) )
 
@@ -28,4 +28,26 @@ if ( Reverse ( a ) == a ):
 else:
     
     print ( "\nThe word is not palindrome\n" )
+
+
+
+
+# O/p => 👇
+
+
+# Enter any word for reverse : janmesh thakur
+
+# this is reverse of string : rukaht hsemnaj
+
+# The word is not palindrome
+
+
+# O/p => 👇
+
+
+# Enter any word for revrse : madam
+
+# this is reverse of string : madam
+
+# The word is palindrome
 
