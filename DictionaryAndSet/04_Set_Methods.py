@@ -50,7 +50,7 @@ print ( len ( Set3 ) )              # O/p => 0
 Set4 = { 5, 10, 15, 31, 20, 50 }
 
 Set4.pop()
-print ( Set4 )                       # O/p => {20, 5, 10, 31, 15}  " Yeh koi  bhi rendom value ko reove kar deta hai "
+print ( Set4 )                       # O/p => {20, 5, 10, 31, 15}  " Yeh koi  bhi Random value ko remove kar deta hai "
 
 
 #-----------------------------------------# 5. union() #----------------------------------------------#
